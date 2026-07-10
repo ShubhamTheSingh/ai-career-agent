@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+leads.jsonl
+unknown_questions.jsonl
+.gradio/
